@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentWithViewPager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="chat_text">Chat Fragment</string>
+    <string name="status_text">Status Fragment</string>
+    <string name="log_text">Log Fragment</string>
+
+</resources>
